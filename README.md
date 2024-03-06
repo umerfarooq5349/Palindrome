@@ -10,7 +10,7 @@ Palindromes, those mesmerizing linguistic wonders, are words or phrases that rea
 
 ## Understanding the Objective 🎯
 
-Let's dive into the fascinating realm of palindromes by creating an app similar to [this Palindrome Checker](https://palindrome-checker.freecodecamp.rocks). My mission? To fulfill specific user stories, ensuring seamless palindrome detection with a touch of modern technology.
+Let's dive into the fascinating realm of palindromes by creating an app similar to [this Palindrome Checker](#). My mission? To fulfill specific user stories, ensuring seamless palindrome detection with a touch of modern technology.
 
 ## Your Key Elements 📝
 
